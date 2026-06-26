@@ -1103,6 +1103,38 @@
             "ImageId": "rbxassetid://107882459867503",
             "SoundId": "rbxassetid://126955662070742",
             "Speed": 0.43
+        },
+        {
+            "Title": "Humble",
+            "Artist": "Kendrick Lamar",
+            "Genre": "PLAYLIST 1",
+            "ImageId": "rbxassetid://107882459867503",
+            "SoundId": "rbxassetid://94862957564536",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Kelingan Mantan",
+            "Artist": "Mill West",
+            "Genre": "PLAYLIST 1",
+            "ImageId": "",
+            "SoundId": "rbxassetid://131829546690876",
+            "Speed": 1.0
+        },
+        {
+            "Title": "Tresno Liyane",
+            "Artist": "Loudboyz",
+            "Genre": "PLAYLIST 1",
+            "ImageId": "",
+            "SoundId": "rbxassetid://136413881694182",
+            "Speed": 0.5
+        },
+        {
+            "Title": "Love Me Not",
+            "Artist": "Lanae",
+            "Genre": "PLAYLIST 1",
+            "ImageId": "",
+            "SoundId": "rbxassetid://120367849867137",
+            "Speed": 0.5
         }
     ]
 }
