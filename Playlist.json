@@ -1097,14 +1097,6 @@
             "Speed": 0.43
         },
         {
-            "Title": "Humble",
-            "Artist": "Kendrick Lamar",
-            "Genre": "PLAYLIST 1",
-            "ImageId": "",
-            "SoundId": "rbxassetid://94862957564536",
-            "Speed": 0.43
-        },
-        {
             "Title": "Kelingan Mantan",
             "Artist": "Mill West",
             "Genre": "PLAYLIST 1",
@@ -1458,6 +1450,14 @@
             "SoundId": "rbxassetid://122304261992486",
             "Speed": 0.43,
             "Start": 87
+        },
+        {
+            "Title": "Humble",
+            "Artist": "Kendrick Lamar",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://94862957564536",
+            "Speed": 0.43
         }
     ]
 }
