@@ -1135,6 +1135,206 @@
             "ImageId": "",
             "SoundId": "rbxassetid://120367849867137",
             "Speed": 0.5
+        },
+        {
+            "Title": "Paradise",
+            "Artist": "Coldplay",
+            "Genre": "PLAYLIST 1",
+            "ImageId": "",
+            "SoundId": "rbxassetid://71896063233133",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Sky full of stars",
+            "Artist": "Coldplay",
+            "Genre": "PLAYLIST 1",
+            "ImageId": "",
+            "SoundId": "rbxassetid://110464877330457",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Viva La vida",
+            "Artist": "Coldplay",
+            "Genre": "PLAYLIST 1",
+            "ImageId": "",
+            "SoundId": "rbxassetid://76643083206866",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Yellow",
+            "Artist": "Coldplay",
+            "Genre": "PLAYLIST 1",
+            "ImageId": "",
+            "SoundId": "rbxassetid://134017901375907",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Flower",
+            "Artist": "Milley Cyrus",
+            "Genre": "PLAYLIST 1",
+            "ImageId": "",
+            "SoundId": "rbxassetid://115948581929240",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Rewrite the stars",
+            "Artist": "",
+            "Genre": "PLAYLIST 1",
+            "ImageId": "",
+            "SoundId": "rbxassetid://135822593874964",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Risk it all",
+            "Artist": "Bruno Mars",
+            "Genre": "PLAYLIST 1",
+            "ImageId": "",
+            "SoundId": "rbxassetid://82106730754675",
+            "Speed": 0.43
+        },
+        {
+            "Title": "APT",
+            "Artist": "Bruno Mars",
+            "Genre": "PLAYLIST 1",
+            "ImageId": "",
+            "SoundId": "rbxassetid://75771341986934",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Cheerleader",
+            "Artist": "OMI",
+            "Genre": "PLAYLIST 1",
+            "ImageId": "",
+            "SoundId": "rbxassetid://85687769894018",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Pepas",
+            "Artist": "Farruko",
+            "Genre": "PLAYLIST 1",
+            "ImageId": "",
+            "SoundId": "rbxassetid://122039854220053",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Beautiful Things",
+            "Artist": "Benson Boone",
+            "Genre": "PLAYLIST 1",
+            "ImageId": "",
+            "SoundId": "rbxassetid://78856245372022",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Bird of a feather",
+            "Artist": "Billie Ellish",
+            "Genre": "PLAYLIST 1",
+            "ImageId": "",
+            "SoundId": "rbxassetid://120995801638400",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Broken angel",
+            "Artist": "Arash",
+            "Genre": "PLAYLIST 1",
+            "ImageId": "",
+            "SoundId": "rbxassetid://77080116328063",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Reckless",
+            "Artist": "",
+            "Genre": "PLAYLIST 1",
+            "ImageId": "",
+            "SoundId": "rbxassetid://79113304576356",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Right now",
+            "Artist": "One direction",
+            "Genre": "PLAYLIST 1",
+            "ImageId": "",
+            "SoundId": "rbxassetid://107014207552179",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Pocker Face",
+            "Artist": "Lady Gaga",
+            "Genre": "PLAYLIST 1",
+            "ImageId": "",
+            "SoundId": "rbxassetid://127026342374352",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Bad Romance",
+            "Artist": "Lady Gaga",
+            "Genre": "PLAYLIST 1",
+            "ImageId": "",
+            "SoundId": "rbxassetid://111229088012363",
+            "Speed": 0.43
+        },
+        {
+            "Title": "One of the girls x Good for you",
+            "Artist": "",
+            "Genre": "PLAYLIST 1",
+            "ImageId": "",
+            "SoundId": "rbxassetid://131784584046733",
+            "Speed": 0.43
+        },
+        {
+            "Title": "in another life",
+            "Artist": "Katty perry",
+            "Genre": "PLAYLIST 1",
+            "ImageId": "",
+            "SoundId": "rbxassetid://82592910354745",
+            "Speed": 0.43
+        },
+        {
+            "Title": "angel baby",
+            "Artist": "Troyen sivan",
+            "Genre": "PLAYLIST 1",
+            "ImageId": "",
+            "SoundId": "rbxassetid://77065126429781",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Lowkey",
+            "Artist": "NIKI",
+            "Genre": "PLAYLIST 1",
+            "ImageId": "",
+            "SoundId": "rbxassetid://121812552496418",
+            "Speed": 0.43
+        },
+        {
+            "Title": "ours to keep",
+            "Artist": "Kendis",
+            "Genre": "PLAYLIST 1",
+            "ImageId": "",
+            "SoundId": "rbxassetid://138544145191029",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Somebody pleasure",
+            "Artist": "Azis Hedra",
+            "Genre": "PLAYLIST 1",
+            "ImageId": "",
+            "SoundId": "rbxassetid://93287493825759",
+            "Speed": 0.43
+        },
+        {
+            "Title": "summertime sadness",
+            "Artist": "Lana del ray",
+            "Genre": "PLAYLIST 1",
+            "ImageId": "",
+            "SoundId": "rbxassetid://131672149948533",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Heroes",
+            "Artist": "Alesso Tove lo",
+            "Genre": "PLAYLIST 1",
+            "ImageId": "",
+            "SoundId": "rbxassetid://85594320650026",
+            "Speed": 0.43
         }
     ]
 }
