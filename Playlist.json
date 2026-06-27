@@ -1413,6 +1413,51 @@
             "SoundId": "rbxassetid://101075851747552",
             "Speed": 0.43,
             "Start": 87
+        },
+        {
+            "Title": "Not Afraid",
+            "Artist": "Eminem",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://96386846999441",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Gangsta's Paradise",
+            "Artist": "Coolio",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://128038243392748",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Watch Me",
+            "Artist": "Silentó",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://97496073328472",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Thrift Shop ft. Wanz",
+            "Artist": "Macklemore & Ryan Lewis",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://80748944701268",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Unforgettable ft. Swae Lee",
+            "Artist": "French Montana",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://122304261992486",
+            "Speed": 0.43,
+            "Start": 87
         }
     ]
 }
