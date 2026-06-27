@@ -1331,7 +1331,7 @@
         {
             "Title": "Bombs in the Ville Hit the Gas",
             "Artist": "J. Cole",
-            "Genre": "PLAYLIST 2",
+            "Genre": "[Hip-Hop / R&B]",
             "ImageId": "",
             "SoundId": "rbxassetid://71514175557267",
             "Speed": 0.43,
@@ -1340,7 +1340,7 @@
         {
             "Title": "Umbrella",
             "Artist": "Rihanna",
-            "Genre": "PLAYLIST 2",
+            "Genre": "[Hip-Hop / R&B]",
             "ImageId": "",
             "SoundId": "rbxassetid://137430960014681",
             "Speed": 0.43
@@ -1348,7 +1348,7 @@
         {
             "Title": "Crazy In Love ft. JAY Z",
             "Artist": "Beyoncé",
-            "Genre": "PLAYLIST 2",
+            "Genre": "[Hip-Hop / R&B]",
             "ImageId": "",
             "SoundId": "rbxassetid://91052158727707",
             "Speed": 0.43
@@ -1356,15 +1356,16 @@
         {
             "Title": "Pop Dat Thang",
             "Artist": "DaBaby",
-            "Genre": "PLAYLIST 2",
+            "Genre": "[Hip-Hop / R&B]",
             "ImageId": "",
-            "SoundId": "rbxassetid://124746376051848",
-            "Speed": 0.43
+            "SoundId": "rbxassetid://79649661136527",
+            "Speed": 0.43,
+            "Start": 87
         },
         {
             "Title": "In Da Club",
             "Artist": "50 Cent",
-            "Genre": "PLAYLIST 2",
+            "Genre": "[Hip-Hop / R&B]",
             "ImageId": "",
             "SoundId": "rbxassetid://100313051718921",
             "Speed": 0.43
@@ -1372,7 +1373,7 @@
         {
             "Title": "Without Me",
             "Artist": "Eminem",
-            "Genre": "PLAYLIST 2",
+            "Genre": "[Hip-Hop / R&B]",
             "ImageId": "",
             "SoundId": "rbxassetid://119915621616624",
             "Speed": 0.43
@@ -1380,7 +1381,7 @@
         {
             "Title": "Life Is Good",
             "Artist": "Future",
-            "Genre": "PLAYLIST 2",
+            "Genre": "[Hip-Hop / R&B]",
             "ImageId": "",
             "SoundId": "rbxassetid://104814501230552",
             "Speed": 0.43,
@@ -1389,7 +1390,7 @@
         {
             "Title": "Hotline Bling",
             "Artist": "Drake",
-            "Genre": "PLAYLIST 2",
+            "Genre": "[Hip-Hop / R&B]",
             "ImageId": "",
             "SoundId": "rbxassetid://127096481247038",
             "Speed": 0.43,
@@ -1398,7 +1399,7 @@
         {
             "Title": "Dirty Game",
             "Artist": "RWMNCS",
-            "Genre": "PLAYLIST 2",
+            "Genre": "[Hip-Hop / R&B]",
             "ImageId": "",
             "SoundId": "rbxassetid://138280514165144",
             "Speed": 0.43,
@@ -1407,7 +1408,7 @@
         {
             "Title": "Return Of The Tres",
             "Artist": "Delinquent habits",
-            "Genre": "PLAYLIST 2",
+            "Genre": "[Hip-Hop / R&B]",
             "ImageId": "",
             "SoundId": "rbxassetid://101075851747552",
             "Speed": 0.43,
