@@ -97,14 +97,6 @@
             "Speed": 0.43
         },
         {
-            "Title": "Vodoo",
-            "Artist": "Martin Garrix",
-            "Genre": "[Playlist 1]",
-            "ImageId": "",
-            "SoundId": "rbxassetid://108201520011723",
-            "Speed": 0.43
-        },
-        {
             "Title": "Ride it",
             "Artist": "DUORUSH",
             "Genre": "[Playlist 1]",
@@ -610,7 +602,7 @@
         },
         {
             "Title": "Calma Remix",
-            "Artist": "Pedro Cap\u00f3, Farruko",
+            "Artist": "Pedro Capó, Farruko",
             "Genre": "[Playlist 1]",
             "ImageId": "",
             "SoundId": "rbxassetid://81733475185005",
@@ -718,7 +710,7 @@
             "Genre": "[Playlist 1]",
             "ImageId": "",
             "SoundId": "rbxassetid://70953038195043",
-            "Speed": 1.0
+            "Speed": 1
         },
         {
             "Title": "BLINDING LIGHTS",
@@ -726,7 +718,7 @@
             "Genre": "[Playlist 1]",
             "ImageId": "",
             "SoundId": "rbxassetid://120589892021440",
-            "Speed": 1.0
+            "Speed": 1
         },
         {
             "Title": "BENTUK CINTA MIX",
@@ -734,7 +726,7 @@
             "Genre": "[Playlist 1]",
             "ImageId": "",
             "SoundId": "rbxassetid://95223395229880",
-            "Speed": 1.0
+            "Speed": 1
         },
         {
             "Title": "JANGAN PAKSA RINDU",
@@ -742,7 +734,7 @@
             "Genre": "[Playlist 1]",
             "ImageId": "",
             "SoundId": "rbxassetid://111556044175844",
-            "Speed": 1.0
+            "Speed": 1
         },
         {
             "Title": "KAPAN TERAKHIR BERTEMU BAHKAN KU",
@@ -750,7 +742,7 @@
             "Genre": "[Playlist 1]",
             "ImageId": "",
             "SoundId": "rbxassetid://102807826445119",
-            "Speed": 1.0
+            "Speed": 1
         },
         {
             "Title": "SEMPURNANYA AKU",
@@ -758,7 +750,7 @@
             "Genre": "[Playlist 1]",
             "ImageId": "",
             "SoundId": "rbxassetid://113162907726762",
-            "Speed": 1.0
+            "Speed": 1
         },
         {
             "Title": "HIPHOP MIX2",
@@ -766,7 +758,7 @@
             "Genre": "[Playlist 1]",
             "ImageId": "",
             "SoundId": "rbxassetid://99140620513616",
-            "Speed": 1.0
+            "Speed": 1
         },
         {
             "Title": "HIPHOP MIX4",
@@ -774,7 +766,7 @@
             "Genre": "[Playlist 1]",
             "ImageId": "",
             "SoundId": "rbxassetid://138769239125694",
-            "Speed": 1.0
+            "Speed": 1
         },
         {
             "Title": "TERLATIH PATAH HATI",
@@ -782,7 +774,7 @@
             "Genre": "[Playlist 1]",
             "ImageId": "",
             "SoundId": "rbxassetid://139001449336381",
-            "Speed": 1.0
+            "Speed": 1
         },
         {
             "Title": "THIS IS WHAT U CAME FOR",
@@ -878,7 +870,7 @@
             "Genre": "[Playlist 1]",
             "ImageId": "",
             "SoundId": "rbxassetid://131250968181031",
-            "Speed": 1.0
+            "Speed": 1
         },
         {
             "Title": "MIX RnB Pt.3",
@@ -886,7 +878,7 @@
             "Genre": "[Playlist 1]",
             "ImageId": "",
             "SoundId": "rbxassetid://121117604371322",
-            "Speed": 1.0
+            "Speed": 1
         },
         {
             "Title": "MIX RnB Pt.4",
@@ -894,7 +886,7 @@
             "Genre": "[Playlist 1]",
             "ImageId": "",
             "SoundId": "rbxassetid://133670976730973",
-            "Speed": 1.0
+            "Speed": 1
         },
         {
             "Title": "MIX RnB Pt.5",
@@ -902,7 +894,7 @@
             "Genre": "[Playlist 1]",
             "ImageId": "",
             "SoundId": "rbxassetid://105910449023275",
-            "Speed": 1.0
+            "Speed": 1
         },
         {
             "Title": "MIX X3tentacion pt.2",
@@ -910,7 +902,7 @@
             "Genre": "[Playlist 1]",
             "ImageId": "",
             "SoundId": "rbxassetid://84234689770485",
-            "Speed": 1.0
+            "Speed": 1
         },
         {
             "Title": "MIX TRAVIS SCT Pt.1",
@@ -918,7 +910,7 @@
             "Genre": "[Playlist 1]",
             "ImageId": "",
             "SoundId": "rbxassetid://103040471271779",
-            "Speed": 1.0
+            "Speed": 1
         },
         {
             "Title": "CEPU",
@@ -926,7 +918,7 @@
             "Genre": "[Playlist 1]",
             "ImageId": "",
             "SoundId": "rbxassetid://128558888773013",
-            "Speed": 1.0
+            "Speed": 1
         },
         {
             "Title": "ALAMAK REGGAE",
@@ -934,7 +926,7 @@
             "Genre": "[Playlist 1]",
             "ImageId": "",
             "SoundId": "rbxassetid://104053454034568",
-            "Speed": 1.0
+            "Speed": 1
         },
         {
             "Title": "APA SALAHKU",
@@ -942,7 +934,7 @@
             "Genre": "[Playlist 1]",
             "ImageId": "",
             "SoundId": "rbxassetid://125621969256380",
-            "Speed": 1.0
+            "Speed": 1
         },
         {
             "Title": "BENCI TUK MENCINTA",
@@ -950,7 +942,7 @@
             "Genre": "[Playlist 1]",
             "ImageId": "",
             "SoundId": "rbxassetid://120843846033220",
-            "Speed": 1.0
+            "Speed": 1
         },
         {
             "Title": "CINTA TERBAIK MIX",
@@ -958,7 +950,7 @@
             "Genre": "[Playlist 1]",
             "ImageId": "",
             "SoundId": "rbxassetid://89742242001579",
-            "Speed": 1.0
+            "Speed": 1
         },
         {
             "Title": "CLOSE MY EYES",
@@ -966,7 +958,7 @@
             "Genre": "[Playlist 1]",
             "ImageId": "",
             "SoundId": "rbxassetid://109018292823898",
-            "Speed": 1.0
+            "Speed": 1
         },
         {
             "Title": "MILLION STARS STADIUM",
@@ -974,7 +966,7 @@
             "Genre": "[Playlist 1]",
             "ImageId": "",
             "SoundId": "rbxassetid://98062566180555",
-            "Speed": 1.0
+            "Speed": 1
         },
         {
             "Title": "SIT DOWN I TELL U THIS",
@@ -982,7 +974,7 @@
             "Genre": "[Playlist 1]",
             "ImageId": "",
             "SoundId": "rbxassetid://117984818879099",
-            "Speed": 1.0
+            "Speed": 1
         },
         {
             "Title": "Animals",
@@ -1102,7 +1094,7 @@
             "Genre": "[Playlist 1]",
             "ImageId": "",
             "SoundId": "rbxassetid://131829546690876",
-            "Speed": 1.0
+            "Speed": 1
         },
         {
             "Title": "Tresno Liyane",
@@ -1546,6 +1538,141 @@
             "Genre": "[Hip-Hop / R&B]",
             "ImageId": "",
             "SoundId": "rbxassetid://130861628094010",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "What You Know Bout Love",
+            "Artist": "Pop Smoke",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://129521809882146",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Mercy ft. Big Sean, Pusha T, 2 Chainz",
+            "Artist": "Kanye West",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://79165915797744",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Dinero ft. DJ Khaled, Cardi B",
+            "Artist": "Jennifer Lopez",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://100752639876247",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Walk It Talk It ft. Drake",
+            "Artist": "Migos",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://111450966619166",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Young Wild and Free",
+            "Artist": "Wiz Khalifa",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://137046151158162",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "No Lie ft. Dua Lipa",
+            "Artist": "Sean Paul",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://71024643761232",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Rockstar ft. Roddy Ricch",
+            "Artist": "DaBaby",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://124468558386439",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Energy",
+            "Artist": "Drake",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://120005263048215",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "F**kin' Problems ft. Drake, 2 Chainz, Kendrick Lamar",
+            "Artist": "A$AP ROCKY",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://111932006629164",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Ni**as In Paris",
+            "Artist": "Kanye West",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://89106109737147",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Taste ft. Offset",
+            "Artist": "Tyga",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://75366207369249",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Still Be Friends ft. Tory Lanez, Tyga",
+            "Artist": "G-Eazy",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://85837324869545",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Nonstop",
+            "Artist": "Drake",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://77347389712990",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "RITMO",
+            "Artist": "Black Eyed Peas, J Balvin",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://119396075831181",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Bounce Back",
+            "Artist": "Big Sean",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://108112578119727",
             "Speed": 0.43,
             "Start": 87
         }
