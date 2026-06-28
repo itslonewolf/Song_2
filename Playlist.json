@@ -1675,6 +1675,96 @@
             "SoundId": "rbxassetid://108112578119727",
             "Speed": 0.43,
             "Start": 87
+        },
+        {
+            "Title": "Moves",
+            "Artist": "Big Sean",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://76111363583062",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "679",
+            "Artist": "Fetty Wap, Monty",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://130867130736551",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Pure Water",
+            "Artist": "Mustard, Migos",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://73474669534896",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "M.A.A.D. City (Feat. MC eiht)",
+            "Artist": "Kendrick Lamar",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://96193348376313",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Loyal ft. Lil Wayne,Tyga",
+            "Artist": "Chris Brown",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://138811952949435",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Bezerk Feat. A$AP Ferg & Hit-Boy",
+            "Artist": "Big Sean",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://99228588613559",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Money In The Grave ft. Rick Ross",
+            "Artist": "Drake",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://106134252213880",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Look Alive",
+            "Artist": "BlocBoy JB, Drake",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://94320555759691",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Old Town Road feat Billy Ray Cyrus",
+            "Artist": "Lil Nas X",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://123359665459054",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "I Love It feat. Adele Givens",
+            "Artist": "Kanye West & Lil Pump",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://82168539056028",
+            "Speed": 0.43,
+            "Start": 87
         }
     ]
 }
