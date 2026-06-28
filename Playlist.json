@@ -417,14 +417,6 @@
             "Speed": 0.43
         },
         {
-            "Title": "LOYAL",
-            "Artist": "CHRIS BROWN",
-            "Genre": "[Playlist 1]",
-            "ImageId": "",
-            "SoundId": "rbxassetid://122874147409307",
-            "Speed": 0.43
-        },
-        {
             "Title": "SADRAH",
             "Artist": "FOR REVENGE",
             "Genre": "[Playlist 1]",
@@ -1763,6 +1755,141 @@
             "Genre": "[Hip-Hop / R&B]",
             "ImageId": "",
             "SoundId": "rbxassetid://82168539056028",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Counting Stars",
+            "Artist": "OneRepublic",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://82672584188390",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Sugar",
+            "Artist": "Maroon 5",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://124214650307934",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "My Body Isn't Ready",
+            "Artist": "sombr",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://134737567040279",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Thunder",
+            "Artist": "Imagine Dragons",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://124744394697165",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Drop Dead",
+            "Artist": "Olivia Rodrigo",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://110348752972211",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "What's Up?",
+            "Artist": "4 Non Blondes",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://79432420762844",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "High Hopes 3000",
+            "Artist": "ROLE MODEL",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://91246520315267",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "What Makes You Beautiful",
+            "Artist": "One Direction",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://81276660515846",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Every Breath You Take",
+            "Artist": "The Police",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://84099682830859",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Might Just",
+            "Artist": "Ella Mai",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://76259115713560",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Say So",
+            "Artist": "Doja Cat",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://138552689531784",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Starboy ft. Daft Punk",
+            "Artist": "The Weeknd",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://129116172309986",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Goodbyes ft. Young Thug",
+            "Artist": "Post Malone",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://104917617283517",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "God's Plan",
+            "Artist": "Drake",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://104917617283517",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Nice For What",
+            "Artist": "Drake",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://83527658783738",
             "Speed": 0.43,
             "Start": 87
         }
