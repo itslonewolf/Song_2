@@ -1868,6 +1868,51 @@
             "SoundId": "rbxassetid://83527658783738",
             "Speed": 0.43,
             "Start": 87
+        },
+        {
+            "Title": "Dilemma ft. Kelly Rowland",
+            "Artist": "Nelly",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://102829547379154",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Hurricane",
+            "Artist": "Kanye West",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://108178311994069",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Leave The Door Open",
+            "Artist": "Bruno Mars, Anderson .Paak, Silk Sonic",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://95350370670203",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "good 4 u",
+            "Artist": "Olivia Rodrigo",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://130533809914107",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "No Guidance ft. Drake",
+            "Artist": "Chris Brown",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://82024861909204",
+            "Speed": 0.43,
+            "Start": 87
         }
     ]
 }
