@@ -1872,7 +1872,7 @@
         {
             "Title": "Dilemma ft. Kelly Rowland",
             "Artist": "Nelly",
-            "Genre": "[Hip-Hop / R&B]",
+            "Genre": "[Pop/Rock]",
             "ImageId": "",
             "SoundId": "rbxassetid://102829547379154",
             "Speed": 0.43,
@@ -1881,7 +1881,7 @@
         {
             "Title": "Hurricane",
             "Artist": "Kanye West",
-            "Genre": "[Hip-Hop / R&B]",
+            "Genre": "[Pop/Rock]",
             "ImageId": "",
             "SoundId": "rbxassetid://108178311994069",
             "Speed": 0.43,
@@ -1890,7 +1890,7 @@
         {
             "Title": "Leave The Door Open",
             "Artist": "Bruno Mars, Anderson .Paak, Silk Sonic",
-            "Genre": "[Hip-Hop / R&B]",
+            "Genre": "[Pop/Rock]",
             "ImageId": "",
             "SoundId": "rbxassetid://95350370670203",
             "Speed": 0.43,
@@ -1908,9 +1908,99 @@
         {
             "Title": "No Guidance ft. Drake",
             "Artist": "Chris Brown",
-            "Genre": "[Hip-Hop / R&B]",
+            "Genre": "[Pop/Rock]",
             "ImageId": "",
             "SoundId": "rbxassetid://82024861909204",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "You Right",
+            "Artist": "Doja Cat, The Weeknd",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://73634618917687",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "MONTERO",
+            "Artist": "Lil Nas X",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://138761396322168",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Take My Breath",
+            "Artist": "The Weeknd",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Kiss Me More",
+            "Artist": "Doja Cat",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://79362757971269",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Need To Know",
+            "Artist": "Doja Cat",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://100623849173639",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "I'm the One ft. Justin Bieber, Chance the Rapper, Lil Wayn",
+            "Artist": "DJ Khaled",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://122682885132014",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "POPSTAR",
+            "Artist": "DJ Khaled ft. Drake",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://137492894723722",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "2002",
+            "Artist": "Anne Marie",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://93604854688373",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "7 rings",
+            "Artist": "Ariana Grande",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://121632814920357",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "motive",
+            "Artist": "Ariana Grande, Doja Cat",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://126075765272550",
             "Speed": 0.43,
             "Start": 87
         }
