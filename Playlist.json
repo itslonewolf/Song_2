@@ -113,14 +113,6 @@
             "Speed": 0.43
         },
         {
-            "Title": "LOCO CONTIGO",
-            "Artist": "Hugel x Gordo",
-            "Genre": "[Playlist 1]",
-            "ImageId": "",
-            "SoundId": "rbxassetid://88354591267376",
-            "Speed": 0.43
-        },
-        {
             "Title": "Shape of You",
             "Artist": "Ed Sheeran",
             "Genre": "[Playlist 1]",
@@ -705,14 +697,6 @@
             "Speed": 1
         },
         {
-            "Title": "BLINDING LIGHTS",
-            "Artist": "",
-            "Genre": "[Playlist 1]",
-            "ImageId": "",
-            "SoundId": "rbxassetid://120589892021440",
-            "Speed": 1
-        },
-        {
             "Title": "BENTUK CINTA MIX",
             "Artist": "",
             "Genre": "[Playlist 1]",
@@ -967,14 +951,6 @@
             "ImageId": "",
             "SoundId": "rbxassetid://117984818879099",
             "Speed": 1
-        },
-        {
-            "Title": "Animals",
-            "Artist": "Maroon 5",
-            "Genre": "[Playlist 1]",
-            "ImageId": "",
-            "SoundId": "rbxassetid://129842093451819",
-            "Speed": 0.43
         },
         {
             "Title": "Die on hill",
