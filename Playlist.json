@@ -1,14 +1,6 @@
 {
     "Songs": [
         {
-            "Title": "Havana",
-            "Artist": "Camila Cabello",
-            "Genre": "[Playlist 1]",
-            "ImageId": "",
-            "SoundId": "rbxassetid://110985053931441",
-            "Speed": 0.43
-        },
-        {
             "Title": "all of me",
             "Artist": "John Legend",
             "Genre": "[Playlist 1]",
@@ -2091,6 +2083,114 @@
             "Genre": "[Pop/Rock]",
             "ImageId": "",
             "SoundId": "rbxassetid://96226823498657",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Finesse",
+            "Artist": "Bruno Mars ft. Cardi B",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://92840290787850",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Havana ft. Young Thug",
+            "Artist": "Camila Cabello",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://91755885731121",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "God is a woman",
+            "Artist": "Ariana Grande",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://81621134874211",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "breathin",
+            "Artist": "Ariana Grande",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://85958552457842",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Side To Side",
+            "Artist": "Ariana Grande",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://137653117437901",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "bad guy",
+            "Artist": "Billie Eilish",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://78856837247264",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "That's what I like",
+            "Artist": "Bruno Mars",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://103675212699283",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Smokin Out The Window",
+            "Artist": "Bruno Mars, Anderson .Paak, Silk Sonic",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://82943990219891",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "My Oh My ft. DaBaby",
+            "Artist": "Camila Cabello",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://99213938665680",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Never Be the Same",
+            "Artist": "Camila Cabello",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://89647637824280",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Don't Go Yet",
+            "Artist": "Camila Cabello",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://117635850251007",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Levitating Feat. DaBaby",
+            "Artist": "Dua Lipa",
+            "Genre": "[Pop/Rock]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://111607477434655",
             "Speed": 0.43,
             "Start": 87
         }
