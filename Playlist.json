@@ -1412,6 +1412,15 @@
             "Speed": 0.43
         },
         {
+            "Title": "Money Trees",
+            "Artist": "Kendrick Lamar",
+            "Genre": "[Hip-Hop / R&B]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://111607477434655",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
             "Title": "Mi Gente",
             "Artist": "J Balvin, Willy William",
             "Genre": "[Hip-Hop / R&B]",
