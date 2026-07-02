@@ -2211,6 +2211,87 @@
             "SoundId": "rbxassetid://95889769215458",
             "Speed": 0.43,
             "Start": 87
+        },
+        {
+            "Title": "Right Now",
+            "Artist": "Outsiders & Paul Elstak",
+            "Genre": "[Hardstyle]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://96567257866583",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Heroine",
+            "Artist": "Dimitri Vegas & Like Mike",
+            "Genre": "[Hardstyle]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://70992625108466",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "The Upside Down",
+            "Artist": "Project One, Headhunterz, Wildstylez",
+            "Genre": "[Hardstyle]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://71618951410332",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Polska Jumpstyle",
+            "Artist": "Mr. Polska, Natte Visstick, Vieze Asbak",
+            "Genre": "[Hardstyle]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://129008004486353",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Awake Me",
+            "Artist": "Vertile, The Saints",
+            "Genre": "[Hardstyle]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://108784431109959",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Pathetique",
+            "Artist": "NLCK, HANNAH, Naeleck",
+            "Genre": "[Hardstyle]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://102613853192923",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "TOO COLD",
+            "Artist": "Sickmode & Rooler",
+            "Genre": "[Hardstyle]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://88812393696865",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Bla Bla",
+            "Artist": "D-Block & S-te-Fan",
+            "Genre": "[Hardstyle]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://75083856699449",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Summer Of **",
+            "Artist": "Da Tweekaz & TopModelz",
+            "Genre": "[Hardstyle]",
+            "ImageId": "",
+            "SoundId": "rbxassetid://94306896786373",
+            "Speed": 0.43,
+            "Start": 87
         }
     ]
 }
