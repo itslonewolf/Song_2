@@ -1124,6 +1124,96 @@
             "SoundId": "rbxassetid://107026205582786",
             "Speed": 0.43,
             "Start": 87
+        },
+        {
+            "Title": "Waiting For Love",
+            "Artist": "Avicii",
+            "Genre": "EDM",
+            "ImageId": "",
+            "SoundId": "rbxassetid://129830182132928",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Don't You Worry Child - Radio Edit",
+            "Artist": "Swedish House Mafia, John Martin",
+            "Genre": "EDM",
+            "ImageId": "",
+            "SoundId": "rbxassetid://126249547618837",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Give Me Everything (feat. Nayer)",
+            "Artist": "Pitbull, AFROJACK, Ne-Yo, Nayer",
+            "Genre": "EDM",
+            "ImageId": "",
+            "SoundId": "rbxassetid://127730733761076",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Club Can't Handle Me (feat. David Guetta)",
+            "Artist": "Flo Rida, David Guetta",
+            "Genre": "EDM",
+            "ImageId": "",
+            "SoundId": "rbxassetid://75418310733780",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "I Need Your Love (feat. Ellie Goulding)",
+            "Artist": "Calvin Harris, Ellie Goulding",
+            "Genre": "EDM",
+            "ImageId": "",
+            "SoundId": "rbxassetid://81224992491762",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit",
+            "Artist": "Avicii, Nicky Romero",
+            "Genre": "EDM",
+            "ImageId": "",
+            "SoundId": "rbxassetid://77540190863506",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Play Hard (feat. Ne-Yo & Akon)",
+            "Artist": "David Guetta, Ne-Yo, Akon",
+            "Genre": "EDM",
+            "ImageId": "",
+            "SoundId": "rbxassetid://134609545745798",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "You & Me - Flume Remix",
+            "Artist": "Disclosure, Eliza Doolittle, Flume",
+            "Genre": "EDM",
+            "ImageId": "",
+            "SoundId": "rbxassetid://93479371414837",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Wild Ones (feat. Sia)",
+            "Artist": "Flo Rida, Sia",
+            "Genre": "EDM",
+            "ImageId": "",
+            "SoundId": "rbxassetid://94055297425301",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Something Just Like This",
+            "Artist": "The Chainsmokers, Coldplay",
+            "Genre": "EDM",
+            "ImageId": "",
+            "SoundId": "rbxassetid://98404411697054",
+            "Speed": 0.43,
+            "Start": 87
         }
     ]
 }
