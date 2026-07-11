@@ -854,6 +854,96 @@
             "SoundId": "rbxassetid://116895114393159",
             "Speed": 0.43,
             "Start": 87
+        },
+        {
+            "Title": "FWU",
+            "Artist": "Don Toliver, Mustard",
+            "Genre": "HIP HOP",
+            "ImageId": "",
+            "SoundId": "rbxassetid://112219628226197",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "It's Up (feat. Young Thug & 21 Savage)",
+            "Artist": "Drake, Young Thug, 21 Savage",
+            "Genre": "HIP HOP",
+            "ImageId": "",
+            "SoundId": "rbxassetid://134649005168650",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "tv off (feat. lefty gunplay)",
+            "Artist": "Kendrick Lamar, Lefty Gunplay",
+            "Genre": "HIP HOP",
+            "ImageId": "",
+            "SoundId": "rbxassetid://78927438258060",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Pimp Style",
+            "Artist": "Matry",
+            "Genre": "HIP HOP",
+            "ImageId": "",
+            "SoundId": "rbxassetid://112056780506945",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Gang Baby",
+            "Artist": "NLE Choppa",
+            "Genre": "HIP HOP",
+            "ImageId": "",
+            "SoundId": "rbxassetid://89060249461029",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Different Species (feat. Gunna)",
+            "Artist": "Offset, Gunna",
+            "Genre": "HIP HOP",
+            "ImageId": "",
+            "SoundId": "rbxassetid://72921050162448",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "EVIL J0RDAN",
+            "Artist": "Playboi Carti",
+            "Genre": "HIP HOP",
+            "ImageId": "",
+            "SoundId": "rbxassetid://89236928267026",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Big Bidness",
+            "Artist": "Rosé Riley, PRICE",
+            "Genre": "HIP HOP",
+            "ImageId": "",
+            "SoundId": "rbxassetid://106193382916214",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Sticky",
+            "Artist": "Tyler, The Creator, GloRilla, Sexyy Red, Lil Wayne",
+            "Genre": "HIP HOP",
+            "ImageId": "",
+            "SoundId": "rbxassetid://77200844620616",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "If We Being Rëal",
+            "Artist": "Yeat",
+            "Genre": "HIP HOP",
+            "ImageId": "",
+            "SoundId": "rbxassetid://71595714110250",
+            "Speed": 0.43,
+            "Start": 87
         }
     ]
 }
