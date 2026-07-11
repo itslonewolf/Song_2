@@ -944,6 +944,96 @@
             "SoundId": "rbxassetid://71595714110250",
             "Speed": 0.43,
             "Start": 87
+        },
+        {
+            "Title": "the boy is mine",
+            "Artist": "Ariana Grande",
+            "Genre": "RNB",
+            "ImageId": "",
+            "SoundId": "rbxassetid://72113204780463",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "pure fantasy.",
+            "Artist": "Brent Faiyaz",
+            "Genre": "RNB",
+            "ImageId": "",
+            "SoundId": "rbxassetid://126160351336956",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "What It Is",
+            "Artist": "Doechii",
+            "Genre": "RNB",
+            "ImageId": "",
+            "SoundId": "rbxassetid://116211188460191",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Tell Her",
+            "Artist": "Ella Mai",
+            "Genre": "RNB",
+            "ImageId": "",
+            "SoundId": "rbxassetid://85285259893203",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Leak It",
+            "Artist": "FLO",
+            "Genre": "RNB",
+            "ImageId": "",
+            "SoundId": "rbxassetid://106704427890935",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Death Do Us Part (feat. Mariah The Scientist)",
+            "Artist": "Fridayy, Mariah the Scientist",
+            "Genre": "RNB",
+            "ImageId": "",
+            "SoundId": "rbxassetid://128941167438366",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "TEWNTIES",
+            "Artist": "GIVEON",
+            "Genre": "RNB",
+            "ImageId": "",
+            "SoundId": "rbxassetid://78274637928494",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "After Hours",
+            "Artist": "Kehlani",
+            "Genre": "RNB",
+            "ImageId": "",
+            "SoundId": "rbxassetid://74592065131999",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "Tell Ur Girlfriend",
+            "Artist": "Lay Bankz",
+            "Genre": "RNB",
+            "ImageId": "",
+            "SoundId": "rbxassetid://104076318532433",
+            "Speed": 0.43,
+            "Start": 87
+        },
+        {
+            "Title": "PUSH 2 START",
+            "Artist": "Tyla",
+            "Genre": "RNB",
+            "ImageId": "",
+            "SoundId": "rbxassetid://97823985879710",
+            "Speed": 0.43,
+            "Start": 87
         }
     ]
 }
